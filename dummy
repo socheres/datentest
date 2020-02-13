@@ -1,0 +1,75 @@
+<record>
+<leader>00000nab a22004452  4500</leader>
+<controlfield tag="001">IxTheo#2020-01-02#3E062D7EE7EC51D4AD15AC29B2808AD86181BAAD</controlfield>
+<controlfield tag="003">DE-Tue135</controlfield>
+<controlfield tag="007">cr|||||</controlfield>
+<datafield tag="024" ind1="7" ind2=" ">
+<subfield code="a">10.1017/jlr.2019.26</subfield>
+<subfield code="2">doi</subfield>
+</datafield>
+<datafield tag="041" ind1=" " ind2=" ">
+<subfield code="a">eng</subfield>
+</datafield>
+<datafield tag="084" ind1=" " ind2=" ">
+<subfield code="a">0</subfield>
+<subfield code="2">ssgn</subfield>
+</datafield>
+<datafield tag="100" ind1="1" ind2=" ">
+<subfield code="4">aut</subfield>
+<subfield code="a">Abbasi, Rushain</subfield>
+</datafield>
+<datafield tag="245" ind1="0" ind2="0">
+<subfield code="a">Religious Secularity: A Theological Challenge to the Islamic State. By Naser Ghobadzadeh. Oxford: Oxford University Press, 2017. Pp. 288. $31.95 (paper). ISBN: 9780190664893.</subfield>
+</datafield>
+<datafield tag="264" ind1=" " ind2=" ">
+<subfield code="c">2019</subfield>
+</datafield>
+<datafield tag="655" ind1=" " ind2="7">
+<subfield code="a">Rezension</subfield>
+<subfield code="0">(DE-588)4049712-4</subfield>
+<subfield code="0">(DE-627)106186019</subfield>
+<subfield code="2">gnd-content</subfield>
+</datafield>
+<datafield tag="773" ind1="0" ind2="8">
+<subfield code="i">In: </subfield>
+<subfield code="t">Journal of Law and Religion</subfield>
+<subfield code="x">2163-3088</subfield>
+<subfield code="w">(DE-627)461908581</subfield>
+<subfield code="g">34 (2019), 2, Seite 250-254</subfield>
+</datafield>
+<datafield tag="852" ind1=" " ind2=" ">
+<subfield code="a">DE-Tue135</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://doi.org/10.1017/jlr.2019.26</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://www.cambridge.org/core/journals/journal-of-law-and-religion/article/religious-secularity-a-theological-challenge-to-the-islamic-state-by-naser-ghobadzadeh-oxford-oxford-university-press-2017-pp-288-3195-paper-isbn-9780190664893/4CD27E1D1A649B479A9E5F500B6EACE1</subfield>
+</datafield>
+<datafield tag="935" ind1=" " ind2=" ">
+<subfield code="a">mteo</subfield>
+</datafield>
+<datafield tag="935" ind1=" " ind2=" ">
+<subfield code="a">ixzs</subfield>
+<subfield code="2">LOK</subfield>
+</datafield>
+<datafield tag="935" ind1=" " ind2=" ">
+<subfield code="a">zota</subfield>
+<subfield code="2">LOK</subfield>
+</datafield>
+<datafield tag="936" ind1="u" ind2="w">
+<subfield code="d">34</subfield>
+<subfield code="e">2</subfield>
+<subfield code="h">250-254</subfield>
+<subfield code="j">2019</subfield>
+</datafield>
+<datafield tag="JOU" ind1=" " ind2=" ">
+<subfield code="a">Journal of Law and Religion</subfield>
+</datafield>
+<datafield tag="URL" ind1=" " ind2=" ">
+<subfield code="a">https://www.cambridge.org/core/journals/journal-of-law-and-religion/article/religious-secularity-a-theological-challenge-to-the-islamic-state-by-naser-ghobadzadeh-oxford-oxford-university-press-2017-pp-288-3195-paper-isbn-9780190664893/4CD27E1D1A649B479A9E5F500B6EACE1</subfield>
+</datafield>
+<datafield tag="ZID" ind1=" " ind2=" ">
+<subfield code="a">2060</subfield>
+</datafield>
+</record>
